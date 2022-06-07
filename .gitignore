@@ -1,0 +1,5 @@
+target/
+.idea
+out/
+taoUnitBot
+!/src/main/java/META-INF/
